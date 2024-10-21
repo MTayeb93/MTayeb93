@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mtayeb93&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/mtayeb93)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtayeb93&theme=radical)](https://git.io/streak-stats)
