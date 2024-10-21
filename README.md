@@ -2,6 +2,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mtayeb93&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/mtayeb93)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtayeb93&theme=radical)](https://git.io/streak-stats)
+
+
 
 <!--
 **MTayeb93/MTayeb93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
