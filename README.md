@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtayeb93&show_icons=true&theme=radical&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mtayeb93&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/mtayeb93)
+
 
 <!--
 **MTayeb93/MTayeb93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
